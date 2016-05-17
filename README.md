@@ -1,4 +1,4 @@
-RadianceProject Kernel [Version 1.01] (Fly IQ441 / KitKat)
+RadianceProject Kernel [[Version 1.01]] (Fly IQ441 / KitKat)
 ===========
 
 **How to build?**
