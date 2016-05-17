@@ -5,6 +5,8 @@ RadianceProject Kernel [Version 1.01] (Fly IQ441 / KitKat)
 - export CROSS_COMPILE=$HOME/fly/arm-eabi-4.7/bin/arm-eabi-
 - ./mk iq441 n k
 
+
+
 **Changelog**
 - Full support SElinux
 - Support NTFS
@@ -15,5 +17,10 @@ RadianceProject Kernel [Version 1.01] (Fly IQ441 / KitKat)
 - Battery Life eXtender v1.0 (BLX)
 - MTK Vermagic Hack
 - Dynamic Filesync Control 2.0
+
+
+
+
+By JaMBy (Radiance Project)
 
 
