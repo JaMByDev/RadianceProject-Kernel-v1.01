@@ -16,6 +16,7 @@ RadianceProject Kernel [[Version 1.01]] (Fly IQ441 / KitKat)
 -----------------------------------------
 - export CROSS_COMPILE=$HOME/fly/arm-eabi-4.7/bin/arm-eabi-
 - ./mk iq441 n k
+- make j2
 
 
 
